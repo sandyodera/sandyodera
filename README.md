@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sandyodera
-- 👀 I’m interested in ...data analysis and SQL
-- 🌱 I’m currently learning ...R, Python
-- 💞️ I’m looking to collaborate on ...data visualization projects
+- 👋 Hi, I’m @sandymusamali
+- 👀 I’m interested in ...Machine learning and Artificial Intelligence
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to collaborate on ...data science related projects
 - 📫 How to reach me ...
 
 <!---
